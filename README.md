@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abulkhair2122/Quantum-Machine-Learning-for-Immunotherapy-Response-Prediction.git
+    git clone https://github.com/abulkhair1022/Quantum-Machine-Learning-for-Immunotherapy-Response-Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
